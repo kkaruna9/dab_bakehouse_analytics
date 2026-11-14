@@ -13,7 +13,7 @@ resources:
 
       #email_notifications:
       #  on_failure:
-      #    - your_email@example.com
+      #    - krishnamoorthy@example.com
 
       parameters:
         - name: catalog
